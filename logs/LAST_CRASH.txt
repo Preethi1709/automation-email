@@ -1,0 +1,13 @@
+NUNES PRODUCT INTELLIGENCE V21.5 SURREAL HYPERSPEED - LAST CRASH REPORT
+================================================================
+Time: 2026-11-20 11:45:03 India Standard Time
+Exit code: 1
+Runtime before exit: 0.0 seconds
+Folder: C:\Users\Nunes\Documents\Hyperspeed Email Automation AI\LiveProject\Hyperspeed Email Automation AI
+Server log: C:\Users\Nunes\Documents\Hyperspeed Email Automation AI\LiveProject\Hyperspeed Email Automation AI\logs\nunes_server_console.log
+
+LAST SERVER OUTPUT
+----------------------------------------------------------------
+Launcher preflight failed: RuntimeError: Dependency installation failed. See C:\Users\Nunes\Documents\Hyperspeed Email Automation AI\LiveProject\Hyperspeed Email Automation AI\logs\requirements_install.log
+
+If the app closes again, this file contains the reason instead of losing the error window.
